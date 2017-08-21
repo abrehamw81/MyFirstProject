@@ -16,7 +16,9 @@ public class FirstTest   {
 		System.out.println(copySolution);
 		System.out.println(solution);
 		
-
+System.out.println(copySolution);
+		System.out.println(solution);
+		
 	}
 	
 	
