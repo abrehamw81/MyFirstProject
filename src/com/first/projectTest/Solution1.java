@@ -14,7 +14,7 @@ public class Solution1 {
 	int b;
 	public int add(){
 		
-		int c= a+b;
+		int c= a+b+a;
 		return c;
 		
 	}
